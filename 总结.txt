@@ -1,0 +1,27 @@
+2048是我第一个编出来的小游戏，虽然它只是一个简陋的dos版本，但我还是觉得非常好。我会在接下来的时间内近一步完善这个游戏。下面谈谈我的感想。
+我的收获
+巩固了面向对象的编程思想
+学习了有限状态机的概念
+函数中的函数
+矩阵操作
+	。行变换
+	。列变换
+	。合并操作
+新的函数(简便计算)
+	。any
+	。all
+	。构造0矩阵
+	。hasattr
+python的特点
+	。lambda
+	。dict
+	。zip
+新的类和函数
+	。curses
+	。defaultdict
+	。random
+		。randint
+		。choice
+与用户的交互方式交互方式
+	。keyboard.getch()
+	。screen.addstr()
